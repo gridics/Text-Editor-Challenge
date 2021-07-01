@@ -1,1 +1,16 @@
 # Coding-Challenge-FEE-Senior
+
+This is a repo containing the TinyMCE custom plugin code challenge for the Senior FEE candidates. This plugin structure was created using the [Yeoman Generator](https://www.tiny.cloud/docs/advanced/yeoman-generator/)
+
+## Usage
+1. Fork this repo.
+2. Clone it to your machine.
+3. CD into the directory.
+4. `npm install` to download the dependencies.
+5. `npm start` to startup the develement environment.
+6. Start coding.
+7. Once completed, create a PR containing your changes.
+
+## Notes
+* Once the developement server has started you can access the editor by opening `src/demo/html/index.html` in your browser.
+* Don't worry about running the build script, as that is not necessary for our purposes. 
