@@ -1,4 +1,4 @@
-# Coding-Challenge-FEE-Senior
+# Text-Editor-Challenge
 
 This is a repo containing the TinyMCE custom plugin code challenge for the Senior FEE candidates. This plugin structure was created using the [Yeoman Generator](https://www.tiny.cloud/docs/advanced/yeoman-generator/)
 
